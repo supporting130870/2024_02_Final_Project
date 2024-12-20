@@ -1,0 +1,289 @@
+{
+  "ko": {
+    "Main": {
+      "loginFailed": "로그인 5회 실패로 창을 닫습니다."
+    },
+    "EConfigurations": {
+      "miridamgiFilePostfix": "M",
+      "singcheongFilePostfix": "S"
+    },
+    "EPResultPanel": {
+      "gangjwaNo": "강좌번호",
+      "gangjwaName": "강좌명",
+      "hakjeom": "학점",
+      "damdangGyosu": "담당교수",
+      "time": "시간"
+    },
+    "EPHeaderPanel": {
+      "greetings": "안녕하세요"
+    },
+    "EPGangjwaSelectionPanel": {
+      "gangjwaNo": "강좌번호",
+      "gangjwaName": "강좌명",
+      "damdangGyosu": "담당교수",
+      "hakjeom": "학점",
+      "time": "시간"
+    },
+    "EPHakgwaSelectionPanel": {
+      "rootFileName": "root",
+      "campus": "캠퍼스",
+      "college": "단과대",
+      "hakgwa": "학과"
+    },
+    "ELoginDialog": {
+      "width": "400",
+      "height": "300",
+      "nameLabel": "사용자ID",
+      "sizeNameText": "10",
+      "passwordLabel": "비밀번호",
+      "sizePasswordText": "10",
+      "okButtonLabel": "확인",
+      "cancelButtonLabel": "취소",
+      "loginFailed": "잘못 입력하였습니다."
+    },
+    "EMainFrame": {
+      "title": "명지대학교수강신청시스템",
+      "width": "1200",
+      "height": "800"
+    },
+    "EMenuBar": {
+      "eFile": "파일",
+      "eEdit": "편집"
+    },
+    "EFileMenu": {
+      "eNew": "새로만들기",
+      "eOpen": "열기",
+      "eSave": "저장",
+      "eSaveAs": "다른이름으로",
+      "ePrint": "프린트",
+      "eExit": "종료"
+    },
+    "EEditMenu": {
+      "eCopy": "복사",
+      "eCut": "잘라내기",
+      "ePaste": "붙여넣기",
+      "eDelete": "삭제"
+    },
+    "PFindIdPwDialog": {
+      "title": "ID/PW 찾기",
+      "emailLabel": "이메일:",
+      "sendCodeButton": "코드 발송",
+      "codeLabel": "인증 코드:",
+      "verifyCodeButton": "인증",
+      "cancelButton": "취소",
+      "emailEmptyError": "이메일을 입력해주세요!",
+      "codeSentSuccess": "인증 코드가 이메일로 전송되었습니다.",
+      "codeSentError": "이메일 발송 중 오류가 발생했습니다.",
+      "codeMismatchError": "인증 코드가 일치하지 않습니다!",
+      "idNotFound": "해당 이메일로 등록된 아이디가 없습니다.",
+      "idFound": "아이디는: {0} 입니다."
+    },
+    "PLoginDialog": {
+      "title": "로그인",
+      "nameLabel": "사용자ID",
+      "passwordLabel": "비밀번호",
+      "okButtonLabel": "확인",
+      "cancelButtonLabel": "취소",
+      "signupButton": "회원가입",
+      "findIdPwButton": "ID/PW 찾기",
+      "loginFailed": "잘못된 사용자 정보입니다.",
+      "LanguageChangeToggle": "영어로 언어를 변경합니다."
+    },
+    "EPFooterPanel": {
+      "mCreditsLabel": "미리담기한 학점은: ",
+      "sCreditsLabel": "수강신청한 학점은: ",
+      "RemainingPreRegistrationCredits": "잔여 미리담기 학점은: ",
+      "RemainingCredits": "잔여 수강신청 학점은: "
+    },
+    "PToolBar": {
+      "logoutButton": "로그아웃",
+      "UserInfo": "회원정보"
+    },
+    "PSignupDialog": {
+      "title": "회원가입",
+      "nameLabel": "이름:",
+      "idLabel": "아이디:",
+      "checkDuplicateButton": "중복검사",
+      "passwordLabel": "비밀번호:",
+      "passwordConfirmLabel": "비밀번호 확인:",
+      "phoneLabel": "전화번호:",
+      "addressLabel": "주소:",
+      "studentNumberLabel": "학번:",
+      "emailLabel": "이메일:",
+      "okButton": "가입",
+      "cancelButton": "취소",
+      "idEmptyError": "아이디를 입력해주세요!",
+      "idDuplicateError": "이미 존재하는 아이디입니다.",
+      "idAvailable": "사용 가능한 아이디입니다.",
+      "passwordMismatchError": "비밀번호가 일치하지 않습니다!",
+      "mandatoryFieldError": "필수 항목을 입력해주세요!",
+      "registrationSuccess": "회원가입이 완료되었습니다!",
+      "registrationFailed": "회원가입에 실패했습니다. 자신의 학번, 이메일, 전화번호를 확인하고 다시 시도하세요."
+    },
+    "PUserInfoDialog": {
+      "title": "회원정보",
+      "userNameLabel": "이름",
+      "userStudentNumberLabel": "학번",
+      "userCampusLabel": "캠퍼스",
+      "userCollegeLabel": "단과대",
+      "userDepartmentLabel": "학과(부)",
+      "userEmailLabel": "이메일",
+      "userPhoneLabel": "휴대폰번호"
+    },
+    "PContentPanel": {
+      "miridamgiExceedLimitDialog": "미리담기 최대 학점을 초과할 수 없습니다.",
+      "sincheongExceedLimitDialog": "신청 최대 학점을 초과할 수 없습니다."
+    },
+    "PInfoMenu":
+    {
+      "title": "정보",
+      "programInfo": "프로그램정보",
+      "guide": "수강신청가이드"
+    }
+  },
+  "en": {
+    "Main": {
+      "loginFailed": "The window will close after 5 failed login attempts."
+    },
+
+    "EConfigurations": {
+      "miridamgiFilePostfix": "M",
+      "singcheongFilePostfix": "S"
+    },
+    "EPResultPanel": {
+      "gangjwaNo": "Course No",
+      "gangjwaName": "Course Name",
+      "hakjeom": "Credit",
+      "damdangGyosu": "Lecturer",
+      "time": "time"
+    },
+    "EPHeaderPanel": {
+      "greetings": "Hello"
+    },
+    "EPGangjwaSelectionPanel": {
+      "gangjwaNo": "Course No",
+      "gangjwaName": "Course Name",
+      "damdangGyosu": "Professor",
+      "hakjeom": "Credit",
+      "time": "Time"
+    },
+    "EPHakgwaSelectionPanel": {
+      "rootFileName": "root",
+      "campus": "Campus",
+      "college": "College",
+      "hakgwa": "Department"
+    },
+    "ELoginDialog": {
+      "width": "400",
+      "height": "300",
+      "nameLabel": "Username",
+      "sizeNameText": "10",
+      "passwordLabel": "Password",
+      "sizePasswordText": "10",
+      "okButtonLabel": "OK",
+      "cancelButtonLabel": "Cancel",
+      "loginFailed": "Invalid input."
+    },
+    "EMainFrame": {
+      "title": "Myongji University Course Registration Program",
+      "width": "1200",
+      "height": "800"
+    },
+    "EMenuBar": {
+      "eFile": "File",
+      "eEdit": "Edit"
+    },
+    "EFileMenu": {
+      "eNew": "New",
+      "eOpen": "Open",
+      "eSave": "Save",
+      "eSaveAs": "Save As",
+      "ePrint": "Print",
+      "eExit": "Exit"
+    },
+    "EEditMenu": {
+      "eCopy": "Copy",
+      "eCut": "Cut",
+      "ePaste": "Paste",
+      "eDelete": "Delete"
+    },
+    "PFindIdPwDialog": {
+      "title": "Find ID/PW",
+      "emailLabel": "Email:",
+      "sendCodeButton": "Send Code",
+      "codeLabel": "Verification Code:",
+      "verifyCodeButton": "Verify",
+      "cancelButton": "Cancel",
+      "emailEmptyError": "Please enter your email!",
+      "codeSentSuccess": "Verification code has been sent to your email.",
+      "codeSentError": "An error occurred while sending the email.",
+      "codeMismatchError": "Verification code does not match!",
+      "idNotFound": "No ID found for the provided email.",
+      "idFound": "Your ID is: {0}."
+    },
+    "EPFooterPanel": {
+      "mCreditsLabel": "Credits Pre-registration are: ",
+      "sCreditsLabel": "Credits enrolled are: ",
+      "RemainingPreRegistrationCredits": "Remaining Credits Pre-registration are: ",
+
+      "RemainingCredits": "Remaining Credits enrolled are: "
+    },
+    "PLoginDialog": {
+      "title": "Login",
+      "nameLabel": "Username",
+      "passwordLabel": "Password",
+      "okButtonLabel": "OK",
+      "cancelButtonLabel": "Cancel",
+      "signupButton": "Sign Up",
+      "findIdPwButton": "Find ID/PW",
+      "loginFailed": "Invalid login credentials.",
+      "LanguageChangeToggle": "Chane Language to Korean"
+    },
+    "PToolBar": {
+      "logoutButton": "LogOut",
+      "UserInfo": "UserInfo"
+    },
+    "PSignupDialog": {
+      "title": "Sign Up",
+      "nameLabel": "Name:",
+      "idLabel": "ID:",
+      "checkDuplicateButton": "Check Duplicate",
+      "passwordLabel": "Password:",
+      "passwordConfirmLabel": "Confirm Password:",
+      "phoneLabel": "Phone Number:",
+      "addressLabel": "Address:",
+      "studentNumberLabel": "Student Number:",
+      "emailLabel": "Email:",
+      "okButton": "Sign Up",
+      "cancelButton": "Cancel",
+      "idEmptyError": "Please enter your ID!",
+      "idDuplicateError": "ID already exists.",
+      "idAvailable": "ID is available.",
+      "passwordMismatchError": "Passwords do not match!",
+      "mandatoryFieldError": "Please fill in all required fields!",
+      "registrationSuccess": "Registration completed successfully!",
+      "registrationFailed": "Registration failed. Please check your student number, email, and phone number, then try again."
+    },
+    "PUserInfoDialog": {
+      "title": "User Information",
+      "userNameLabel": "Name",
+      "userStudentNumberLabel": "Student Number",
+      "userCampusLabel": "Campus",
+      "userCollegeLabel": "College",
+      "userDepartmentLabel": "Department",
+      "userEmailLabel": "Email",
+      "userPhoneLabel": "Phone Number"
+    },
+    "PContentPanel": {
+      "miridamgiExceedLimitDialog": "You cannot exceed the maximum credits for Pre-registration.",
+      "sincheongExceedLimitDialog": "You cannot exceed the maximum credits for Enrollment."
+    },
+    "PInfoMenu":
+    {
+      "title": "Info",
+      "programInfo": "ProgramInformation",
+      "guide": "RegistrationGuide"
+    }
+
+  }
+}

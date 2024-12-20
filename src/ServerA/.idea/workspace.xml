@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ServerA:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="722d5b0b-78e2-4454-ba9c-54f2619db1ed" name="변경" comment="1210_하단배너 리다이렉트 추가" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2nSqt5gwUrvQ9qtrn6izOI29moQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Jiwon/intelij-workspace/ServerA/src",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/Jiwon/intelij-workspace/ServerA/src/Main.java",
+    "project.structure.last.edited": "아티팩트",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true",
+    "애플리케이션.Main.executor": "Run"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="remoteInterface" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Jiwon\intelij-workspace\ServerA\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="control" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.Main" />
+      <module name="ServerA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="애플리케이션.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.21565.193" />
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-IU-243.21565.193" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="722d5b0b-78e2-4454-ba9c-54f2619db1ed" name="변경" comment="" />
+      <created>1728977036664</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728977036664</updated>
+      <workItem from="1728977037600" duration="3642000" />
+      <workItem from="1729042302714" duration="1443000" />
+      <workItem from="1729130724409" duration="689000" />
+      <workItem from="1729330727782" duration="21000" />
+      <workItem from="1729397944030" duration="532000" />
+      <workItem from="1729473749152" duration="4335000" />
+      <workItem from="1729582590490" duration="1623000" />
+      <workItem from="1729587007949" duration="1983000" />
+      <workItem from="1729645841161" duration="8095000" />
+      <workItem from="1729948110434" duration="2550000" />
+      <workItem from="1730078780299" duration="1798000" />
+      <workItem from="1730080693351" duration="2507000" />
+      <workItem from="1730098671099" duration="362000" />
+      <workItem from="1730178979751" duration="3272000" />
+      <workItem from="1730182280596" duration="160000" />
+      <workItem from="1730206123820" duration="6000" />
+      <workItem from="1730251740427" duration="1701000" />
+      <workItem from="1730452185725" duration="1271000" />
+      <workItem from="1730511602785" duration="620000" />
+      <workItem from="1730618267748" duration="38000" />
+      <workItem from="1730683471237" duration="1960000" />
+      <workItem from="1730879725267" duration="1614000" />
+      <workItem from="1731061276800" duration="7481000" />
+      <workItem from="1731135603349" duration="141000" />
+      <workItem from="1731288157566" duration="1027000" />
+      <workItem from="1731290991673" duration="1969000" />
+      <workItem from="1731323901052" duration="2622000" />
+      <workItem from="1731379694051" duration="67000" />
+      <workItem from="1731395860054" duration="189000" />
+      <workItem from="1731463126595" duration="849000" />
+      <workItem from="1731495124357" duration="3104000" />
+      <workItem from="1731686633581" duration="152000" />
+      <workItem from="1731893124794" duration="1949000" />
+      <workItem from="1731906046361" duration="1613000" />
+      <workItem from="1732020594512" duration="4102000" />
+      <workItem from="1732033123547" duration="2239000" />
+      <workItem from="1732069168959" duration="1763000" />
+      <workItem from="1732497808313" duration="91000" />
+      <workItem from="1732498047417" duration="2861000" />
+      <workItem from="1732671019233" duration="5198000" />
+      <workItem from="1732679667623" duration="419000" />
+      <workItem from="1732687202505" duration="6533000" />
+      <workItem from="1733039738007" duration="7688000" />
+      <workItem from="1733091816614" duration="320000" />
+      <workItem from="1733101766936" duration="5825000" />
+      <workItem from="1733132133684" duration="1311000" />
+      <workItem from="1733199008695" duration="1944000" />
+      <workItem from="1733219408690" duration="3832000" />
+      <workItem from="1733275505316" duration="4600000" />
+      <workItem from="1733307176081" duration="2820000" />
+      <workItem from="1733330769372" duration="15406000" />
+      <workItem from="1733408279123" duration="2408000" />
+      <workItem from="1733478871552" duration="2907000" />
+      <workItem from="1733483388721" duration="2376000" />
+      <workItem from="1733551900228" duration="5441000" />
+      <workItem from="1733634765479" duration="11628000" />
+      <workItem from="1733817921184" duration="68000" />
+      <workItem from="1733818421505" duration="505000" />
+      <workItem from="1733818936337" duration="10635000" />
+      <workItem from="1733843371491" duration="2772000" />
+      <workItem from="1733853073170" duration="866000" />
+      <workItem from="1734701088944" duration="278000" />
+    </task>
+    <task id="LOCAL-00001" summary="1025">
+      <option name="closed" value="true" />
+      <created>1733060914601</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733060914601</updated>
+    </task>
+    <task id="LOCAL-00002" summary="1025">
+      <option name="closed" value="true" />
+      <created>1733060939072</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1733060939072</updated>
+    </task>
+    <task id="LOCAL-00003" summary="1201">
+      <option name="closed" value="true" />
+      <created>1733060950736</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1733060950736</updated>
+    </task>
+    <task id="LOCAL-00004" summary="1201">
+      <option name="closed" value="true" />
+      <created>1733102946712</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1733102946712</updated>
+    </task>
+    <task id="LOCAL-00005" summary="1201">
+      <option name="closed" value="true" />
+      <created>1733199970284</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1733199970284</updated>
+    </task>
+    <task id="LOCAL-00006" summary="1203">
+      <option name="closed" value="true" />
+      <created>1733223150182</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1733223150182</updated>
+    </task>
+    <task id="LOCAL-00007" summary="1205">
+      <option name="closed" value="true" />
+      <created>1733382540553</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1733382540553</updated>
+    </task>
+    <task id="LOCAL-00008" summary="1206_로그아웃 구현완료">
+      <option name="closed" value="true" />
+      <created>1733463435249</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1733463435249</updated>
+    </task>
+    <task id="LOCAL-00009" summary="1206_배너 추가 및 디비 커넥션 끊기 추가">
+      <option name="closed" value="true" />
+      <created>1733482766893</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1733482766893</updated>
+    </task>
+    <task id="LOCAL-00010" summary="1207_비밀번호 암호화 추가">
+      <option name="closed" value="true" />
+      <created>1733557841081</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1733557841081</updated>
+    </task>
+    <task id="LOCAL-00011" summary="1207_VUser항목추가">
+      <option name="closed" value="true" />
+      <created>1733639305075</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1733639305075</updated>
+    </task>
+    <task id="LOCAL-00012" summary="1209_검색기능추가">
+      <option name="closed" value="true" />
+      <created>1733717719548</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1733717719548</updated>
+    </task>
+    <task id="LOCAL-00013" summary="1210_하단배너 리다이렉트 추가">
+      <option name="closed" value="true" />
+      <created>1733837696643</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1733837696643</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1025" />
+    <MESSAGE value="1201" />
+    <MESSAGE value="1203" />
+    <MESSAGE value="1205" />
+    <MESSAGE value="1206_로그아웃 구현완료" />
+    <MESSAGE value="1206_학점변동사항 띄우기" />
+    <MESSAGE value="1206_배너 추가 및 디비 커넥션 끊기 추가" />
+    <MESSAGE value="1207_비밀번호 암호화 추가" />
+    <MESSAGE value="1207_VUser항목추가" />
+    <MESSAGE value="1209_검색기능추가" />
+    <MESSAGE value="1210_하단배너 리다이렉트 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="1210_하단배너 리다이렉트 추가" />
+  </component>
+</project>
