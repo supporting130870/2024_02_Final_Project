@@ -15,47 +15,10 @@
 데이터베이스 구성
 
 MySQL 데이터베이스를 사용하며, 아래와 같이 테이블이 구성되어 있습니다.
+![image](https://github.com/user-attachments/assets/a343ec91-331d-4200-b288-bd57bf561a20)
 
-TABLE_NAME	COLUMN_NAME	COLUMN_TYPE	IS_NULLABLE	COLUMN_KEY	EXTRA
 
-campus	id	int	NO	PRI	auto_increment
-
-name_kor	varchar(50)	NO
-name_eng	varchar(50)	NO	
-parents_id	int	YES		
-college	id	int	NO	PRI	auto_increment
-parents_id	int	NO	MUL	
-name_kor	varchar(100)	NO	
-name_eng	varchar(100)	NO		
-course	id	int	NO	PRI	auto_increment
-parents_id	int	NO	MUL	
-name	varchar(100)	NO		
-lecturer	varchar(50)	NO		
-credit	int	NO		
-time	varchar(100)	NO		
-department	id	int	NO	PRI	auto_increment
-parents_id	int	NO	MUL	
-name_kor	varchar(100)	NO		
-name_eng	varchar(100)	NO		
-student_courses	NAME	varchar(45)	NO		
-ID	varchar(45)	NO	PRI	
-STUDENT_NUMBER	varchar(45)	NO	PRI	
-LECTURER	varchar(45)	NO		
-CREDIT	varchar(45)	NO		
-TIME	varchar(45)	NO		
-STATUS	varchar(45)	NO		
-user_info	ID	varchar(45)	NO	PRI	
-PW	varchar(120)	NO		
-NAME	varchar(45)	NO		
-PHONE_NUMBER	varchar(45)	NO	UNI	
-ADDRESS	varchar(45)	NO		
-STUDENT_NUMBER	varchar(45)	NO	PRI	
-EMAIL	varchar(45)	NO	PRI	
-CAMPUS	varchar(45)	NO		
-COLLEGE	varchar(45)	NO		
-DEPARTMENT	varchar(45)	NO		
-
-src 폴더 내 덤프파일을 참조하여 데이터베이스를 구성할 수 있습니다.
+src 폴더 내 덤프파일을 참조하여 데이터베이스를 구성하면 됩니다.
 
 **클라이언트 및 서버 종속성**
 
